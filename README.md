@@ -10,7 +10,7 @@ Old Imperial capital of Japan.
 
 A Buddhist temple in the city of Uji in Kyoto Prefecture. It is jointly a temple of the Jōdo-shū and Tendai-shū sects.
 
-Originally built in 998 as a rural villa of high-ranking courtier Minamoto no Shigenobu, it was purchased by Fujiwara no Michinaga after its original owner’s death. The villa was made into a Buddhist temple by Fujiwara no Yorimichi in 1052. The most famous building in the temple is the Phoenix Hall ([鳳凰堂](#鳳凰堂) Hōō-dō), constructed in 1053. It is the only remaining original building, surrounded by a scenic pond; additional buildings making up the compound were burnt down during a civil war in 1336.
+Originally built in 998 as a rural villa of high-ranking courtier Minamoto no Shigenobu, it was purchased by Fujiwara no Michinaga after its original owner’s death. The villa was made into a Buddhist temple by Fujiwara no Yorimichi in 1052. The most famous building in the temple is [鳳凰堂](#鳳凰堂), constructed in 1053. It is the only remaining original building, surrounded by a scenic pond; additional buildings making up the compound were burnt down in 1336, during the crisis surrounding the Kenmu Restoration and the rise of the [足利幕府](#足利幕府).
 
 [Official website](http://www.byodoin.or.jp/en/index.html)
 
@@ -22,7 +22,7 @@ Originally built in 998 as a rural villa of high-ranking courtier Minamoto no Sh
 
 Only surviving Heian building at [平等院](#平等院), constructed in 1053.
 
-![[user:663highland](https://en.wikipedia.org/wiki/File:Byodo-in_in_Uji.jpg)](Byodo-in_in_Uji.jpg)
+![Via [user:663highland](https://en.wikipedia.org/wiki/File:Byodo-in_in_Uji.jpg)](Byodo-in_in_Uji.jpg)
 
 # 銀閣寺
 
@@ -30,7 +30,7 @@ Only surviving Heian building at [平等院](#平等院), constructed in 1053.
 
 A temple in the Sakyo ward of Kyoto, Japan, today associated with the Shōkoku-ji branch of Rinzai Zen. Officially named [慈](じ)[照](しょう)[寺](じ), it was designed by Ashikaga Yoshimasa (義政) to be his retirement villa who planned to have it converted to a Zen temple after his death. Construction began in 1482, though [応仁の乱](#応仁の乱) delayed its completion. Having retired to the villa, it is said Yoshimasa sat in the pavilion, contemplating the calm and beauty of the gardens as the 応仁の乱 worsened and Kyoto was burned to the ground. They say it represents the [東山](#東山) Culture of the 室町 period.
 
-![Shoukoku-ji map: http://www.shokoku-ji.jp/g_sanpai.html](shoukokuji-gin.png)
+![Temple complex map via [Shoukoku-ji](http://www.shokoku-ji.jp/g_sanpai.html)](shoukokuji-gin.png)
 
 # 大文字山
 
@@ -40,7 +40,7 @@ The most famous mountain upon which the bonfires of [五山送り火](#五山送
 
 ![From Funaokayama Park, Kita-ward, [user:J_o](https://commons.wikimedia.org/wiki/File:Gozanokuribi_Daimonji2.jpg)](Gozanokuribi_Daimonji2.jpg)
 
-![Kyoto texshade with Bing aerial basemap](kyoto-texshade.png)
+![Kyoto [texshade][Kyoto texshade] with Bing aerial basemap](kyoto-texshade.png)
 
 # 五山送り火
 
@@ -48,7 +48,7 @@ The most famous mountain upon which the bonfires of [五山送り火](#五山送
 
 More commonly simply [大文字](#大文字), the culmination of Obon festival involving several huge bonfires on the mountainsides around [京都](#京都).
 
-![Elegant schematic by http://gozan-okuribi.com showing the Kamo and Takano Rivers](gozantop.gif)
+![Elegant schematic by showing the Kamo and Takano Rivers, by [Gozan-Okuribi.com](http://gozan-okuribi.com)](gozantop.gif)
 
 # 東山
 
@@ -70,7 +70,7 @@ A civil war that lasted from 1467 to 1477 that initiated, with the collapse of t
 
 The shogunate successor of the Kamakura Bakufu, founded by Ashikaga Takauji (尊氏) who wrested control of the state from the Houjou clan.
 
-![[user:Ash Crow](https://commons.wikimedia.org/wiki/File:Ashikaga_mon.svg)](Ashikaga_mon.svg)
+![Family mon, re-created by [user:Ash Crow](https://commons.wikimedia.org/wiki/File:Ashikaga_mon.svg)](Ashikaga_mon.svg)
 
 # 室町
 
@@ -86,7 +86,7 @@ Officially [鹿](ろく)[苑](おん)[寺](じ),  a temple in Kita-ku ward that 
 
 ![Adolfo Farsari’s painted photograph, 1886, https://en.wikipedia.org/wiki/File:Japon-1886-41.jpg](Japon-1886-41.jpg)
 
-![Map from http://www.shokoku-ji.jp/k_sanpai.html](shoukokuji-kin.png)
+![Map of temple complex via [Shokoku-ji](http://www.shokoku-ji.jp/k_sanpai.html)](shoukokuji-kin.png)
 
 (In the above map, note the 大 represents [左大文字山](#左大文字山), on the western side of Kyoto, not the one next to [銀閣寺](#銀閣寺)!)
 
@@ -96,10 +96,9 @@ Officially [鹿](ろく)[苑](おん)[寺](じ),  a temple in Kita-ku ward that 
 
 Another mountain with a 大 bonfire for [五山送り火](#五山送り火), to the west of northern [京都](#京都).
 
-![user:PlusMinus, https://commons.wikimedia.org/wiki/File:HidariDaimonji.jpg](HidariDaimonji.jpg)
+![From Nishiōji Dōri, by [user:PlusMinus](https://commons.wikimedia.org/wiki/File:HidariDaimonji.jpg)](HidariDaimonji.jpg)
 
-![Kyoto texshade with Bing aerial basemap](kyoto-texshade.png)
-
+![Kyoto [texshade][Kyoto texshade] with Bing aerial basemap](kyoto-texshade.png)
 
 # References
 
