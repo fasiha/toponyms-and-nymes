@@ -1,12 +1,12 @@
 ## 京都
 
-- [京](きょう)[都](と)
+- Ruby: [京](きょう)[都](と)
 
 Old Imperial capital of Japan.
 
 ## 平等院
 
-- [平](びょう)[等](どう)[院](いん)
+- Ruby: [平](びょう)[等](どう)[院](いん)
 
 A Buddhist temple in the city of Uji in Kyoto Prefecture. It is jointly a temple of the Jōdo-shū and Tendai-shū sects.
 
@@ -18,7 +18,7 @@ Originally built in 998 as a rural villa of high-ranking courtier Minamoto no Sh
 
 ## 鳳凰堂
 
-- [鳳](ほう)[凰](おう)[堂](どう)
+- Ruby: [鳳](ほう)[凰](おう)[堂](どう)
 
 Only surviving Heian building at [平等院](#平等院), constructed in 1053.
 
@@ -26,7 +26,7 @@ Only surviving Heian building at [平等院](#平等院), constructed in 1053.
 
 ## 銀閣寺
 
-- [銀](ぎん)[閣](かく)[寺](じ)
+- Ruby: [銀](ぎん)[閣](かく)[寺](じ)
 
 A temple in the Sakyo ward of Kyoto, Japan, today associated with the Shōkoku-ji branch of Rinzai Zen. Officially named [慈](じ)[照](しょう)[寺](じ), it was designed by Ashikaga Yoshimasa (義政) to be his retirement villa who planned to have it converted to a Zen temple after his death. Construction began in 1482, though [応仁の乱](#応仁の乱) delayed its completion. Having retired to the villa, it is said Yoshimasa sat in the pavilion, contemplating the calm and beauty of the gardens as the 応仁の乱 worsened and Kyoto was burned to the ground. They say it represents the [東山](#東山) Culture of the 室町 period.
 
@@ -34,7 +34,7 @@ A temple in the Sakyo ward of Kyoto, Japan, today associated with the Shōkoku-j
 
 ## 大文字山
 
-- [大](だい)[文](もん)[字](じ)[山](やま)
+- Ruby: [大](だい)[文](もん)[字](じ)[山](やま)
 
 The most famous mountain upon which the bonfires of [五山送り火](#五山送り火) are lit.
 
@@ -44,7 +44,7 @@ The most famous mountain upon which the bonfires of [五山送り火](#五山送
 
 ## 五山送り火
 
-- [五](ご)[山](ざん)[送](おく)り[火](び)
+- Ruby: [五](ご)[山](ざん)[送](おく)り[火](び)
 
 More commonly simply [大文字](#大文字), the culmination of Obon festival involving several huge bonfires on the mountainsides around [京都](#京都).
 
@@ -52,7 +52,7 @@ More commonly simply [大文字](#大文字), the culmination of Obon festival i
 
 ## 東山
 
-- [東](ひがし)[山](やま)
+- Ruby: [東](ひがし)[山](やま)
 
 One of the eleven wards of Kyoto City, known for its historic preserved architecture.
 
@@ -60,13 +60,13 @@ One of the eleven wards of Kyoto City, known for its historic preserved architec
 
 ## 応仁の乱
 
-- [応](おお)[仁](にん)の[乱](らん)
+- Ruby: [応](おお)[仁](にん)の[乱](らん)
 
 A civil war that lasted from 1467 to 1477 that initiated, with the collapse of the 足利幕府, the Sengoku period. It is named after the era that it started in.
  
 ## 足利幕府
 
-- [足](あし)[利](かが)[幕](ばく)[府](ふ)
+- Ruby: [足](あし)[利](かが)[幕](ばく)[府](ふ)
 
 The shogunate successor of the Kamakura Bakufu, founded by Ashikaga Takauji (尊氏) who wrested control of the state from the Houjou clan.
 
@@ -74,13 +74,13 @@ The shogunate successor of the Kamakura Bakufu, founded by Ashikaga Takauji (尊
 
 ## 室町
 
-- [室](むろ)[町](まち)
+- Ruby: [室](むろ)[町](まち)
 
 The period name of the 足利幕府, named after the street where the third shogun, Ashikaga Yoshimitsu (義満), established his residence in 1379. 室町幕府 is also appropriate.
 
 ## 金閣寺
 
-- [金](きん)[閣](かく)[寺](じ)
+- Ruby: [金](きん)[閣](かく)[寺](じ)
 
 Officially [鹿](ろく)[苑](おん)[寺](じ),  a temple in Kita-ku ward that was bought by Ashikaga Yoshimitsu (義満), grandfather of Yoshimasa (義政), and belonging to the Shōkoku-ji school of Rinzai Zen. It is the only building in its temple complex to survive the [応仁の乱](#応仁の乱).
 
@@ -92,7 +92,7 @@ Officially [鹿](ろく)[苑](おん)[寺](じ),  a temple in Kita-ku ward that 
 
 ## 左大文字山
 
-- [左](ひだり)[大](だい)[文](もん)[字](じ)[山](さん)
+- Ruby: [左](ひだり)[大](だい)[文](もん)[字](じ)[山](さん)
 
 Another mountain with a 大 bonfire for [五山送り火](#五山送り火), to the west of northern [京都](#京都).
 
