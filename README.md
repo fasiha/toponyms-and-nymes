@@ -1,3 +1,9 @@
+# 京都
+
+- [京](きょう)[都](と)
+
+Old Imperial capital of Japan.
+
 # 平等院
 
 - [平](びょう)[等](どう)[院](いん)
@@ -30,11 +36,19 @@ A temple in the Sakyo ward of Kyoto, Japan, today associated with the Shōkoku-j
 
 - [大](だい)[文](もん)[字](じ)[山](やま)
 
-The most famous mountain upon which the bonfires of [五山送り火](https://en.wikipedia.org/wiki/Gozan_no_Okuribi) are lit.
+The most famous mountain upon which the bonfires of [五山送り火](#五山送り火) are lit.
 
 ![From Funaokayama Park, Kita-ward, [user:J_o](https://commons.wikimedia.org/wiki/File:Gozanokuribi_Daimonji2.jpg)](Gozanokuribi_Daimonji2.jpg)
 
 ![Kyoto texshade with Bing aerial basemap](kyoto-texshade.png)
+
+# 五山送り火
+
+- [五](ご)[山](ざん)[送](おく)り[火](び)
+
+More commonly simply [大文字](#大文字), the culmination of Obon festival involving several huge bonfires on the mountainsides around [京都](#京都).
+
+![Elegant schematic by http://gozan-okuribi.com showing the Kamo and Takano Rivers](gozantop.gif)
 
 # 東山
 
@@ -68,17 +82,19 @@ The period name of the 足利幕府, named after the street where the third shog
 
 - [金](きん)[閣](かく)[寺](じ)
 
-Officially [鹿](ろく)[苑](おん)[寺](じ),  a temple in Kuta-ku ward that was bought by Ashikaga Yoshimitsu (義満), grandfather of Yoshimasa (義政), and belonging to the Shōkoku-ji school of Rinzai Zen. It alone survived the 
+Officially [鹿](ろく)[苑](おん)[寺](じ),  a temple in Kita-ku ward that was bought by Ashikaga Yoshimitsu (義満), grandfather of Yoshimasa (義政), and belonging to the Shōkoku-ji school of Rinzai Zen. It is the only building in its temple complex to survive the [応仁の乱](#応仁の乱).
+
+![Adolfo Farsari’s painted photograph, 1886, https://en.wikipedia.org/wiki/File:Japon-1886-41.jpg](Japon-1886-41.jpg)
 
 ![Map from http://www.shokoku-ji.jp/k_sanpai.html](shoukokuji-kin.png)
 
-(In the above map, note the 大 represents [左大文字山](#左大文字山), on the western side of Kyoto, not the one next to [金閣寺](#金閣寺)!)
+(In the above map, note the 大 represents [左大文字山](#左大文字山), on the western side of Kyoto, not the one next to [銀閣寺](#銀閣寺)!)
 
 # 左大文字山
 
 - [左](ひだり)[大](だい)[文](もん)[字](じ)[山](さん)
 
-Another mountain with a 大 bonfire for [五山送り火](https://en.wikipedia.org/wiki/Gozan_no_Okuribi).
+Another mountain with a 大 bonfire for [五山送り火](#五山送り火), to the west of northern [京都](#京都).
 
 ![user:PlusMinus, https://commons.wikimedia.org/wiki/File:HidariDaimonji.jpg](HidariDaimonji.jpg)
 
