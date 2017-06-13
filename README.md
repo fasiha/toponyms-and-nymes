@@ -1,10 +1,10 @@
-# 京都
+## 京都
 
 - [京](きょう)[都](と)
 
 Old Imperial capital of Japan.
 
-# 平等院
+## 平等院
 
 - [平](びょう)[等](どう)[院](いん)
 
@@ -16,7 +16,7 @@ Originally built in 998 as a rural villa of high-ranking courtier Minamoto no Sh
 
 ![Montage from [main website](http://www.byodoin.or.jp/en/)](byoudouin-montage.jpg)
 
-# 鳳凰堂
+## 鳳凰堂
 
 - [鳳](ほう)[凰](おう)[堂](どう)
 
@@ -24,7 +24,7 @@ Only surviving Heian building at [平等院](#平等院), constructed in 1053.
 
 ![Via [user:663highland](https://en.wikipedia.org/wiki/File:Byodo-in_in_Uji.jpg)](Byodo-in_in_Uji.jpg)
 
-# 銀閣寺
+## 銀閣寺
 
 - [銀](ぎん)[閣](かく)[寺](じ)
 
@@ -32,7 +32,7 @@ A temple in the Sakyo ward of Kyoto, Japan, today associated with the Shōkoku-j
 
 ![Temple complex map via [Shoukoku-ji](http://www.shokoku-ji.jp/g_sanpai.html)](shoukokuji-gin.png)
 
-# 大文字山
+## 大文字山
 
 - [大](だい)[文](もん)[字](じ)[山](やま)
 
@@ -42,7 +42,7 @@ The most famous mountain upon which the bonfires of [五山送り火](#五山送
 
 ![Kyoto [texshade][Kyoto texshade] with Bing aerial basemap](kyoto-texshade.png)
 
-# 五山送り火
+## 五山送り火
 
 - [五](ご)[山](ざん)[送](おく)り[火](び)
 
@@ -50,7 +50,7 @@ More commonly simply [大文字](#大文字), the culmination of Obon festival i
 
 ![Elegant schematic by showing the Kamo and Takano Rivers, by [Gozan-Okuribi.com](http://gozan-okuribi.com)](gozantop.gif)
 
-# 東山
+## 東山
 
 - [東](ひがし)[山](やま)
 
@@ -58,13 +58,13 @@ One of the eleven wards of Kyoto City, known for its historic preserved architec
 
 ![At Yasakakamimachi, Higashiyama-ku, by [user:663highland](https://commons.wikimedia.org/wiki/File:150124_At_Yasakakamimachi_Kyoto_Japan01n.jpg)](At_Yasakakamimachi_Kyoto_Japan01n.jpg)
 
-# 応仁の乱
+## 応仁の乱
 
 - [応](おお)[仁](にん)の[乱](らん)
 
 A civil war that lasted from 1467 to 1477 that initiated, with the collapse of the 足利幕府, the Sengoku period. It is named after the era that it started in.
  
-# 足利幕府
+## 足利幕府
 
 - [足](あし)[利](かが)[幕](ばく)[府](ふ)
 
@@ -72,13 +72,13 @@ The shogunate successor of the Kamakura Bakufu, founded by Ashikaga Takauji (尊
 
 ![Family mon, re-created by [user:Ash Crow](https://commons.wikimedia.org/wiki/File:Ashikaga_mon.svg)](Ashikaga_mon.svg)
 
-# 室町
+## 室町
 
 - [室](むろ)[町](まち)
 
 The period name of the 足利幕府, named after the street where the third shogun, Ashikaga Yoshimitsu (義満), established his residence in 1379. 室町幕府 is also appropriate.
 
-# 金閣寺
+## 金閣寺
 
 - [金](きん)[閣](かく)[寺](じ)
 
@@ -90,7 +90,7 @@ Officially [鹿](ろく)[苑](おん)[寺](じ),  a temple in Kita-ku ward that 
 
 (In the above map, note the 大 represents [左大文字山](#左大文字山), on the western side of Kyoto, not the one next to [銀閣寺](#銀閣寺)!)
 
-# 左大文字山
+## 左大文字山
 
 - [左](ひだり)[大](だい)[文](もん)[字](じ)[山](さん)
 
@@ -100,6 +100,6 @@ Another mountain with a 大 bonfire for [五山送り火](#五山送り火), to 
 
 ![Kyoto [texshade][Kyoto texshade] with Bing aerial basemap](kyoto-texshade.png)
 
-# References
+## References
 
 [Kyoto texshade]: http://maps.aldebrn.me/Apps/#%7B%22version%22%3A0%2C%22baseLayerPicked%22%3A%7B%22name%22%3A%22Bing%20Maps%20Aerial%20with%20Labels%22%2C%22iconUrl%22%3A%22http%3A%2F%2Fmaps.aldebrn.me%2FBuild%2FCesium%2FWidgets%2FImages%2FImageryProviders%2FbingAerialLabels.png%22%7D%2C%22baseTerrainPicked%22%3A%7B%22name%22%3A%22WGS84%20Ellipsoid%22%7D%2C%22layers%22%3A%5B%7B%22url%22%3A%22%2F%2Fdev.virtualearth.net%22%2C%22isBaseLayer%22%3Atrue%2C%22alpha%22%3A1%2C%22brightness%22%3A1%2C%22contrast%22%3A1%2C%22hue%22%3A0%2C%22saturation%22%3A1%2C%22gamma%22%3A1.3%7D%2C%7B%22url%22%3A%22http%3A%2F%2Fmaps.aldebrn.me%2Fworld-tex-cgiar-90m%22%2C%22isBaseLayer%22%3Afalse%2C%22alpha%22%3A0.62%2C%22brightness%22%3A1.32%2C%22contrast%22%3A1.4%2C%22hue%22%3A0%2C%22saturation%22%3A1%2C%22gamma%22%3A1%7D%5D%2C%22terrainExaggeration%22%3A1%2C%22destination%22%3A%7B%22x%22%3A-3786181.378980977%2C%22y%22%3A3689859.397735441%2C%22z%22%3A3671115.2990479674%7D%2C%22orientation%22%3A%7B%22heading%22%3A0.0014865895153031161%2C%22pitch%22%3A-1.5707091488187594%2C%22roll%22%3A0%7D%7D
