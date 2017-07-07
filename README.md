@@ -63,7 +63,7 @@ One of the eleven wards of Kyoto City, known for its historic preserved architec
 - Ruby: [応](おお)[仁](にん)の[乱](らん)
 
 A civil war that lasted from 1467 to 1477 that initiated, with the collapse of the 足利幕府, the Sengoku period. It is named after the era that it started in.
- 
+
 ## 足利幕府
 
 - Ruby: [足](あし)[利](かが)[幕](ばく)[府](ふ)
@@ -99,6 +99,52 @@ Another mountain with a 大 bonfire for [五山送り火](#五山送り火), to 
 ![From Nishiōji Dōri, by [user:PlusMinus](https://commons.wikimedia.org/wiki/File:HidariDaimonji.jpg)](HidariDaimonji.jpg)
 
 ![Kyoto [texshade][Kyoto texshade] with Bing aerial basemap](kyoto-texshade.png)
+
+## 上賀茂神社
+
+- Ruby: [上](かみ)[賀](が)[茂](も)[神](じん)[社](じゃ)
+
+A key shrine on the banks of [鴨川](#鴨川) in north [京都](#京都), first founded in 678, dedicated to [賀](か)[茂](も)[別](わけ)[雷](いかづち), the thunder kami. It is the topic of John K Nelson’s *Enduring Identities: The Guise of Shinto in Contemporary Japan* (2000).
+
+## 下鴨神社
+
+- Ruby [下](しも)[鴨](がも)[神](じん)[社](じゃ)
+
+A key shrine just north of where the [鴨川](#鴨川) meets the [高野川](#高野川), beleived to be founded in the sixth century, before [京都](#京都) became the imperial capital. It is dedicated to [玉](たま)[依](より)[姫](ひめ), mother of [賀](か)[茂](も)[別](わけ)[雷](いかづち) (who has his own shrine dedicated to him, [上賀茂神社](#上賀茂神社)), and her father, [賀](か)[茂](も)[建](たけ)[角](つの)[身](み).
+
+## 鴨川
+
+- Ruby: [鴨](かも)[川](がわ)
+
+The river whose course was altered to flow to the east of the imperial palace when [京都](#京都) became the imperial capital. [白](しら)[河](かわ)[天](てん)[皇](のう) said the three things he couldn’t control were: monk-soldiers of [延暦寺](#延暦寺), rolls of dice, and waters of 鴨川.
+
+## 高野川
+
+- Ruby: [高](たか)[野](の)[川](がわ)
+
+The other river of northern [京都](#京都).
+
+## 延暦寺
+
+- Ruby: [延](えん)[暦](りゃく)[寺](じ)
+
+The monastery founded by [最](さい)[澄](ちょう) on [比叡山](#比叡山) in 788, as directed by [桓](かん)[武](む)[天](てん)[皇](のう), who founded [京都](#京都), to guard his city from the evil northeast direction. A Tendai monastery, its monk-soldiers caused tremendous grief for other monasteries, as well as emperors, shoguns, and daimyo, until Oda Nobunaga razed the complex in 1571 (though of course there’s that *one* building that survived).
+
+[法](ほう)[然](ねん) (founder of Japanese Pure Land Buddhism), [日](にち)[蓮](れん) (the Lotus Sutra guy), and [親](しん)[鸞](らん) (founder of *True* Pure Land Buddhism) all studied here.
+
+![Map of the monastery today. [Naver](https://matome.naver.jp/odai/2142894993741371301/2142934363141881803)](enryakuji-map.jpg)
+
+![Google Earth view](enryakuji-google3d.jpg)
+
+It’s technically in 大塚, in Shiga Prefecture.
+
+## 比叡山
+
+- Ruby: [比](ひ)[叡](えい)[山](ざん)
+
+The tallest mountain northeast of [京都](#京都), near the peak of which sits [延暦寺](#延暦寺).
+
+![User moja’s photo of 比叡山 from 京都. [Wiki](https://en.wikipedia.org/wiki/File:Sakura_MtHiei.jpg)](Sakura_MtHiei.jpg)
 
 ## References
 
