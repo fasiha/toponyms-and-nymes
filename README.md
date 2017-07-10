@@ -108,7 +108,7 @@ A key shrine on the banks of [鴨川](#鴨川) in north [京都](#京都), first
 
 ## 下鴨神社
 
-- Ruby [下](しも)[鴨](がも)[神](じん)[社](じゃ)
+- Ruby: [下](しも)[鴨](がも)[神](じん)[社](じゃ)
 
 A key shrine just north of where the [鴨川](#鴨川) meets the [高野川](#高野川), beleived to be founded in the sixth century, before [京都](#京都) became the imperial capital. It is dedicated to [玉](たま)[依](より)[姫](ひめ), mother of [賀](か)[茂](も)[別](わけ)[雷](いかづち) (who has his own shrine dedicated to him, [上賀茂神社](#上賀茂神社)), and her father, [賀](か)[茂](も)[建](たけ)[角](つの)[身](み).
 
