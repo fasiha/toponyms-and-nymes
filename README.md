@@ -146,6 +146,12 @@ The tallest mountain northeast of [京都](#京都), near the peak of which sits
 
 ![User moja’s photo of 比叡山 from 京都. [Wiki](https://en.wikipedia.org/wiki/File:Sakura_MtHiei.jpg)](Sakura_MtHiei.jpg)
 
+## 北大路
+
+- Ruby: [北](きた)[大](おお)[路](じ)
+
+Station K04 on the Karasuma Line.
+
 ## References
 
 [Kyoto texshade]: http://maps.aldebrn.me/Apps/#%7B%22version%22%3A0%2C%22baseLayerPicked%22%3A%7B%22name%22%3A%22Bing%20Maps%20Aerial%20with%20Labels%22%2C%22iconUrl%22%3A%22http%3A%2F%2Fmaps.aldebrn.me%2FBuild%2FCesium%2FWidgets%2FImages%2FImageryProviders%2FbingAerialLabels.png%22%7D%2C%22baseTerrainPicked%22%3A%7B%22name%22%3A%22WGS84%20Ellipsoid%22%7D%2C%22layers%22%3A%5B%7B%22url%22%3A%22%2F%2Fdev.virtualearth.net%22%2C%22isBaseLayer%22%3Atrue%2C%22alpha%22%3A1%2C%22brightness%22%3A1%2C%22contrast%22%3A1%2C%22hue%22%3A0%2C%22saturation%22%3A1%2C%22gamma%22%3A1.3%7D%2C%7B%22url%22%3A%22http%3A%2F%2Fmaps.aldebrn.me%2Fworld-tex-cgiar-90m%22%2C%22isBaseLayer%22%3Afalse%2C%22alpha%22%3A0.62%2C%22brightness%22%3A1.32%2C%22contrast%22%3A1.4%2C%22hue%22%3A0%2C%22saturation%22%3A1%2C%22gamma%22%3A1%7D%5D%2C%22terrainExaggeration%22%3A1%2C%22destination%22%3A%7B%22x%22%3A-3786181.378980977%2C%22y%22%3A3689859.397735441%2C%22z%22%3A3671115.2990479674%7D%2C%22orientation%22%3A%7B%22heading%22%3A0.0014865895153031161%2C%22pitch%22%3A-1.5707091488187594%2C%22roll%22%3A0%7D%7D
